@@ -24,7 +24,7 @@
     "vue-scrollactive": "^0.9.3"
   },
   "devDependencies": {
-    "nuxt": "^2.14.3"
+    "nuxt": "^3.4.3"
   },
   "types": "./src/index.d.ts"
 }
